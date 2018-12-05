@@ -12,3 +12,11 @@ D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\obj\Debug\netcoreapp2.1\
 D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.RazorTargetAssemblyInfo.cache
 D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.dll
 D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.pdb
+J:\shakelx_WorkSpace\jesee2015\test\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.csprojAssemblyReference.cache
+J:\shakelx_WorkSpace\jesee2015\test\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.csproj.CoreCompileInputs.cache
+J:\shakelx_WorkSpace\jesee2015\test\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.RazorAssemblyInfo.cache
+J:\shakelx_WorkSpace\jesee2015\test\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.RazorAssemblyInfo.cs
+J:\shakelx_WorkSpace\jesee2015\test\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.AssemblyInfoInputs.cache
+J:\shakelx_WorkSpace\jesee2015\test\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.AssemblyInfo.cs
+J:\shakelx_WorkSpace\jesee2015\test\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.dll
+J:\shakelx_WorkSpace\jesee2015\test\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.pdb
