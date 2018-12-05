@@ -1,0 +1,14 @@
+D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\bin\Debug\netcoreapp2.1\JwtBearerAuthentication.deps.json
+D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\bin\Debug\netcoreapp2.1\JwtBearerAuthentication.runtimeconfig.json
+D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\bin\Debug\netcoreapp2.1\JwtBearerAuthentication.runtimeconfig.dev.json
+D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\bin\Debug\netcoreapp2.1\JwtBearerAuthentication.dll
+D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\bin\Debug\netcoreapp2.1\JwtBearerAuthentication.pdb
+D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.csprojAssemblyReference.cache
+D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.csproj.CoreCompileInputs.cache
+D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.RazorAssemblyInfo.cache
+D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.RazorAssemblyInfo.cs
+D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.AssemblyInfoInputs.cache
+D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.AssemblyInfo.cs
+D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.RazorTargetAssemblyInfo.cache
+D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.dll
+D:\asp.net core\AuthorizeSimple\JwtBearerAuthentication\obj\Debug\netcoreapp2.1\JwtBearerAuthentication.pdb
